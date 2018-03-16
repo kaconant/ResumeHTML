@@ -1,0 +1,22 @@
+.beginning {
+    color: #ffffff;
+    background-color: #4C243B;
+}
+
+body {
+    padding: 10px 100px;
+    border: 1px solid #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #364652;
+    background-color: #F2CEE6;
+}
+    
+.welcomeImage {
+    border: 1px solid #FFFFFF; 
+    background-color: #FFE4FA;
+}
+
+li {
+    display: inline-block;
+    }
